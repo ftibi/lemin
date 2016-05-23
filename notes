@@ -1,0 +1,5 @@
+- Attention, la case start n'est pas forcement la premiere decrite
+- Stockage de la map dans une liste chainee:
+	- un des elements de cette liste chainee sera une liste chainee
+		celle liste contiendra les addresses des autres salles qui lui sont liees
+- il va faloir reflechir a l'implementation de l'algo de dijkstra
